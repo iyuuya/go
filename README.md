@@ -1,0 +1,1 @@
+# iyuuya's go library
